@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\bin\Debug\net8.0\TAMRIN3.exe
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\bin\Debug\net8.0\TAMRIN3.deps.json
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\bin\Debug\net8.0\TAMRIN3.runtimeconfig.json
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\bin\Debug\net8.0\TAMRIN3.dll
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\bin\Debug\net8.0\TAMRIN3.pdb
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.dll
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\refint\TAMRIN3.dll
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.pdb
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\TAMRIN3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\TAMRIN3_VERSION_FINAL_NIKA_SHAHBEYK\TAMRIN3\obj\Debug\net8.0\ref\TAMRIN3.dll
