@@ -78,6 +78,8 @@ class Program
         }
         Console.WriteLine("see you again!");
         Console.WriteLine("==================================");
+        Console.WriteLine("Press any key to stop!");
+        Console.ReadKey();
     }
 
 
